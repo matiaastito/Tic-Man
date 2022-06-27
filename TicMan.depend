@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1605896221 source:c:\users\user\desktop\notas y documentos random\utn shit\projectos codeblock\ticman\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	<stdio.h>
+	<time.h>
+	"TicMan.h"
+
+1605846756 c:\users\user\desktop\notas y documentos random\utn shit\projectos codeblock\ticman\soil.h
+
+1605847312 c:\users\user\desktop\notas y documentos random\utn shit\projectos codeblock\ticman\ticman.h
+
+1605850368 source:c:\users\user\desktop\notas y documentos random\utn shit\projectos codeblock\ticman\ticman.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"TicMan.h"
+
+1605998928 source:c:\users\matic\desktop\proyectodami\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	<stdio.h>
+	<time.h>
+	"TicMan.h"
+
+1605846756 c:\users\matic\desktop\proyectodami\soil.h
+
+1605847312 c:\users\matic\desktop\proyectodami\ticman.h
+
+1606000256 source:c:\users\matic\desktop\proyectodami\ticman.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"TicMan.h"
+
